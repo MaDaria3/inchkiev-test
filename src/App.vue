@@ -1,8 +1,11 @@
-<script setup></script>
+<script setup>
+import Slider from '@/components/Slider.vue';
+import Form from './components/Form.vue';
+</script>
 
-<template></template>
+<template>
+  <Slider />
+  <Form />
+</template>
 
-<style scoped>
-@media (min-width: 1024px) {
-}
-</style>
+<style scoped></style>

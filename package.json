@@ -1,5 +1,5 @@
 {
-  "name": "pet-test",
+  "name": "inchkiev-test",
   "version": "0.0.0",
   "private": true,
   "type": "module",
@@ -11,6 +11,9 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "@vuelidate/core": "^2.0.3",
+    "@vuelidate/validators": "^2.0.4",
+    "primevue": "^4.0.3",
     "vue": "^3.4.29"
   },
   "devDependencies": {
