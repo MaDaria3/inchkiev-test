@@ -175,6 +175,9 @@ const submit = () => {
   </div>
 </template>
 <style scoped>
+.wrapper {
+  margin-bottom: 34px;
+}
 form {
   display: flex;
   font-family: Roboto;
