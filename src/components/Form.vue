@@ -176,7 +176,7 @@ const submit = () => {
 </template>
 <style scoped>
 .wrapper {
-  margin-bottom: 34px;
+  margin-block: 40px;
 }
 form {
   display: flex;
